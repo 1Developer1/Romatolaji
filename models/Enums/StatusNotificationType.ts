@@ -1,0 +1,29 @@
+export enum ErrorCode {
+  //2xx
+  Success = 200,
+
+  //4xx
+  BadRequest = 400,
+  Unauthorized = 401,
+  Forbidden = 403,
+  NotFound = 404,
+  UnSupportedMediaType = 415,
+
+  //5xx
+  InternalServerError = 500,
+}
+
+export enum HealthErrorCode {
+  NONE,
+  NEED_PARENT_PLAN,
+  MUST_BE_USED_CHILD_PLAN,
+  MINIMUM_START_WITH_100,
+  FIRST_PARTIAL_MUST_BE_NUMERIC,
+  INCORRECT_ACCOUNT_PLAN_CODE_AND_GROUP_CODE_CHOICE,
+  INCORRECT_ACCOUNT_PLAN_CODE_AND_CLASS_CODE_CHOICE,
+  INCORRECT_GROUP_CODE_AND_CLASS_CODE_CHOICE,
+  INTEGRATED_COMPANY_MUST_BE_NULL,
+  CANNOT_CONFIGURE_BRANCH_SETTING,
+  ALREADY_EXIST,
+  REQUIRED,
+}

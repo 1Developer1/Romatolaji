@@ -1,0 +1,430 @@
+{
+  "announcements": [
+    {
+      "id": "2",
+      "title": "Yıllık Check-up",
+      "content": "Yıllık check-up programı hakkında bilgilendirme.",
+      "createdBy": "Dr. Ayşe",
+      "createdAt": "2024-07-26T11:45:00.000Z",
+      "validFrom": "2024-08-02",
+      "validUntil": "2024-08-16"
+    },
+    {
+      "id": "3",
+      "title": "Diyetisyen Randevuları",
+      "content": "Diyetisyen randevuları ile ilgili önemli duyuru.",
+      "createdBy": "Dr. Mehmet",
+      "createdAt": "2024-07-27T12:00:00.000Z",
+      "validFrom": "2024-08-03",
+      "validUntil": "2024-08-17"
+    },
+    {
+      "id": "4",
+      "title": "Kan Bağışı",
+      "content": "Kan bağışı kampanyası hakkında bilgilendirme.",
+      "createdBy": "Dr. Elif",
+      "createdAt": "2024-07-28T13:15:00.000Z",
+      "validFrom": "2024-08-04",
+      "validUntil": "2024-08-18"
+    },
+    {
+      "id": "5",
+      "title": "Aşı Takvimi",
+      "content": "Yeni aşı takvimi hakkında bilgilendirme.",
+      "createdBy": "Dr. Can",
+      "createdAt": "2024-07-29T14:30:00.000Z",
+      "validFrom": "2024-08-05",
+      "validUntil": "2024-08-19"
+    },
+    {
+      "id": "6",
+      "title": "Covid-19 Bilgilendirme",
+      "content": "Covid-19 ile ilgili güncel bilgilendirme.",
+      "createdBy": "Dr. Hande",
+      "createdAt": "2024-07-30T15:45:00.000Z",
+      "validFrom": "2024-08-06",
+      "validUntil": "2024-08-20"
+    },
+    {
+      "id": "7",
+      "title": "Yeni Tıbbi Cihazlar",
+      "content": "Yeni tıbbi cihazların kullanımı hakkında bilgilendirme.",
+      "createdBy": "Dr. Mert",
+      "createdAt": "2024-07-31T16:00:00.000Z",
+      "validFrom": "2024-08-07",
+      "validUntil": "2024-08-21"
+    },
+    {
+      "id": "8",
+      "title": "Gebelik Takibi",
+      "content": "Gebelik takibi ile ilgili önemli bilgiler.",
+      "createdBy": "Dr. Zeynep",
+      "createdAt": "2024-08-01T17:15:00.000Z",
+      "validFrom": "2024-08-08",
+      "validUntil": "2024-08-22"
+    },
+    {
+      "id": "9",
+      "title": "Çocuk Sağlığı",
+      "content": "Çocuk sağlığı kontrolü hakkında bilgilendirme.",
+      "createdBy": "Dr. Sinan",
+      "createdAt": "2024-08-02T18:30:00.000Z",
+      "validFrom": "2024-08-09",
+      "validUntil": "2024-08-23"
+    },
+    {
+      "id": "10",
+      "title": "Genel Sağlık Taraması",
+      "content": "Genel sağlık taraması hakkında bilgilendirme.",
+      "createdBy": "Dr. Emine",
+      "createdAt": "2024-08-03T19:45:00.000Z",
+      "validFrom": "2024-08-10",
+      "validUntil": "2024-08-24"
+    },
+    {
+      "id": "11",
+      "title": "Acil Durum Prosedürleri",
+      "content": "Acil durum prosedürleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Burak",
+      "createdAt": "2024-08-04T20:00:00.000Z",
+      "validFrom": "2024-08-11",
+      "validUntil": "2024-08-25"
+    },
+    {
+      "id": "12",
+      "title": "Radyoloji Randevuları",
+      "content": "Radyoloji randevuları ile ilgili önemli duyuru.",
+      "createdBy": "Dr. Büşra",
+      "createdAt": "2024-08-05T21:15:00.000Z",
+      "validFrom": "2024-08-12",
+      "validUntil": "2024-08-26"
+    },
+    {
+      "id": "13",
+      "title": "Laboratuvar Testleri",
+      "content": "Laboratuvar testleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Fikret",
+      "createdAt": "2024-08-06T22:30:00.000Z",
+      "validFrom": "2024-08-13",
+      "validUntil": "2024-08-27"
+    },
+    {
+      "id": "14",
+      "title": "Uyku Apnesi",
+      "content": "Uyku apnesi hakkında bilgilendirme.",
+      "createdBy": "Dr. Melike",
+      "createdAt": "2024-08-07T23:45:00.000Z",
+      "validFrom": "2024-08-14",
+      "validUntil": "2024-08-28"
+    },
+    {
+      "id": "15",
+      "title": "Kardiyoloji Kontrolleri",
+      "content": "Kardiyoloji kontrolleri ile ilgili önemli duyuru.",
+      "createdBy": "Dr. Oğuz",
+      "createdAt": "2024-08-08T09:00:00.000Z",
+      "validFrom": "2024-08-15",
+      "validUntil": "2024-08-29"
+    },
+    {
+      "id": "16",
+      "title": "Diş Sağlığı",
+      "content": "Diş sağlığı kontrolü hakkında bilgilendirme.",
+      "createdBy": "Dr. Şule",
+      "createdAt": "2024-08-09T10:15:00.000Z",
+      "validFrom": "2024-08-16",
+      "validUntil": "2024-08-30"
+    },
+    {
+      "id": "17",
+      "title": "Psikolojik Destek",
+      "content": "Psikolojik destek hizmetleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Ferhat",
+      "createdAt": "2024-08-10T11:30:00.000Z",
+      "validFrom": "2024-08-17",
+      "validUntil": "2024-08-31"
+    },
+    {
+      "id": "18",
+      "title": "Fizik Tedavi",
+      "content": "Fizik tedavi randevuları hakkında bilgilendirme.",
+      "createdBy": "Dr. Gül",
+      "createdAt": "2024-08-11T12:45:00.000Z",
+      "validFrom": "2024-08-18",
+      "validUntil": "2024-09-01"
+    },
+    {
+      "id": "19",
+      "title": "Göz Kontrolleri",
+      "content": "Göz kontrolleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Hakan",
+      "createdAt": "2024-08-12T14:00:00.000Z",
+      "validFrom": "2024-08-19",
+      "validUntil": "2024-09-02"
+    },
+    {
+      "id": "20",
+      "title": "Kadın Doğum",
+      "content": "Kadın doğum kontrolü hakkında bilgilendirme.",
+      "createdBy": "Dr. Işıl",
+      "createdAt": "2024-08-13T15:15:00.000Z",
+      "validFrom": "2024-08-20",
+      "validUntil": "2024-09-03"
+    },
+    {
+      "id": "21",
+      "title": "Kulak Burun Boğaz",
+      "content": "Kulak burun boğaz kontrolleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Jale",
+      "createdAt": "2024-08-14T16:30:00.000Z",
+      "validFrom": "2024-08-21",
+      "validUntil": "2024-09-04"
+    },
+    {
+      "id": "22",
+      "title": "Nöroloji",
+      "content": "Nöroloji kontrolleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Kadir",
+      "createdAt": "2024-08-15T17:45:00.000Z",
+      "validFrom": "2024-08-22",
+      "validUntil": "2024-09-05"
+    },
+    {
+      "id": "23",
+      "title": "Onkoloji",
+      "content": "Onkoloji kontrolleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Lale",
+      "createdAt": "2024-08-16T19:00:00.000Z",
+      "validFrom": "2024-08-23",
+      "validUntil": "2024-09-06"
+    },
+    {
+      "id": "24",
+      "title": "Pediatri",
+      "content": "Pediatri kontrolleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Mehmet",
+      "createdAt": "2024-08-17T20:15:00.000Z",
+      "validFrom": "2024-08-24",
+      "validUntil": "2024-09-07"
+    },
+    {
+      "id": "25",
+      "title": "Ortopedi",
+      "content": "Ortopedi kontrolleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Nihat",
+      "createdAt": "2024-08-18T21:30:00.000Z",
+      "validFrom": "2024-08-25",
+      "validUntil": "2024-09-08"
+    },
+    {
+      "id": "26",
+      "title": "Ruh Sağlığı",
+      "content": "Ruh sağlığı hizmetleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Özge",
+      "createdAt": "2024-08-19T22:45:00.000Z",
+      "validFrom": "2024-08-26",
+      "validUntil": "2024-09-09"
+    },
+    {
+      "id": "27",
+      "title": "İç Hastalıkları",
+      "content": "İç hastalıkları kontrolleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Pelin",
+      "createdAt": "2024-08-20T23:00:00.000Z",
+      "validFrom": "2024-08-27",
+      "validUntil": "2024-09-10"
+    },
+    {
+      "id": "28",
+      "title": "Beslenme ve Diyetetik",
+      "content": "Beslenme ve diyetetik randevuları hakkında bilgilendirme.",
+      "createdBy": "Dr. Ramazan",
+      "createdAt": "2024-08-21T09:15:00.000Z",
+      "validFrom": "2024-08-28",
+      "validUntil": "2024-09-11"
+    },
+    {
+      "id": "29",
+      "title": "Fizyoterapi",
+      "content": "Fizyoterapi randevuları hakkında bilgilendirme.",
+      "createdBy": "Dr. Selen",
+      "createdAt": "2024-08-22T10:30:00.000Z",
+      "validFrom": "2024-08-29",
+      "validUntil": "2024-09-12"
+    },
+    {
+      "id": "30",
+      "title": "Acil Servis",
+      "content": "Acil servis prosedürleri hakkında bilgilendirme.",
+      "createdBy": "Dr. Tarık",
+      "createdAt": "2024-08-23T11:45:00.000Z",
+      "validFrom": "2024-08-30",
+      "validUntil": "2024-09-13"
+    }
+  ],
+
+ "surveys": [
+    {
+      "id": 1,
+      "title": "Müşteri Memnuniyeti Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Hizmet kalitesinden memnun musunuz?",
+          "options": ["Çok Memnunum", "Memnunum", "Kararsızım", "Memnun Değilim"]
+        },
+        {
+          "type": "classic",
+          "text": "Hizmetlerimizi geliştirmek için önerileriniz nelerdir?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ürün Geri Bildirim Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Ürün kalitesini nasıl değerlendirirsiniz?",
+          "options": ["Çok İyi", "İyi", "Orta", "Kötü"]
+        },
+        {
+          "type": "classic",
+          "text": "Ürünle ilgili yaşadığınız sorunlar nelerdir?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Çalışan Memnuniyeti Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Çalışma ortamından memnun musunuz?",
+          "options": ["Evet", "Hayır"]
+        },
+        {
+          "type": "classic",
+          "text": "Çalışma koşullarını iyileştirmek için önerileriniz nelerdir?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pazarlama Kampanyası Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Son kampanyamızı nasıl buldunuz?",
+          "options": ["Çok İyi", "İyi", "Orta", "Kötü"]
+        },
+        {
+          "type": "classic",
+          "text": "Gelecek kampanyalar için önerileriniz nelerdir?"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Eğitim Programı Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Eğitim içeriğini nasıl buldunuz?",
+          "options": ["Çok Faydalı", "Faydalı", "Orta", "Faydasız"]
+        },
+        {
+          "type": "classic",
+          "text": "Eğitimle ilgili geri bildirimleriniz nelerdir?"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Ürün Deneyim Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Ürün kullanım deneyiminizi nasıl değerlendirirsiniz?",
+          "options": ["Çok İyi", "İyi", "Orta", "Kötü"]
+        },
+        {
+          "type": "classic",
+          "text": "Ürünle ilgili yaşadığınız herhangi bir sorun var mı?"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Web Sitesi Kullanılabilirlik Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Web sitesinin kullanılabilirliğini nasıl değerlendirirsiniz?",
+          "options": ["Çok Kullanışlı", "Kullanışlı", "Orta", "Kullanışsız"]
+        },
+        {
+          "type": "classic",
+          "text": "Web sitesinin iyileştirilmesi için önerileriniz nelerdir?"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Mobil Uygulama Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Mobil uygulamanın performansını nasıl buldunuz?",
+          "options": ["Çok İyi", "İyi", "Orta", "Kötü"]
+        },
+        {
+          "type": "classic",
+          "text": "Mobil uygulama ile ilgili yaşadığınız herhangi bir sorun var mı?"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Restoran Hizmetleri Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Restoran hizmetlerimizden memnun musunuz?",
+          "options": ["Evet", "Hayır"]
+        },
+        {
+          "type": "classic",
+          "text": "Restoran hizmetlerimizi geliştirmek için önerileriniz nelerdir?"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Otel Hizmetleri Anketi",
+      "createdAt": "2024-08-05T00:00:00Z",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "text": "Otel hizmetlerimizden memnun musunuz?",
+          "options": ["Çok Memnunum", "Memnunum", "Kararsızım", "Memnun Değilim"]
+        },
+        {
+          "type": "classic",
+          "text": "Otel hizmetlerimizi geliştirmek için önerileriniz nelerdir?"
+        }
+      ]
+    }
+  ]
+}
+
+
